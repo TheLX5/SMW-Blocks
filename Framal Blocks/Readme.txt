@@ -1,5 +1,5 @@
 
-Framal blocks - to use with BTSD
+Framal blocks - to use with GPS
 
 These blocks act differently depending on the current exAnimation frame.
 There are some examples of how to use them, including a hurt on specific
@@ -42,3 +42,7 @@ BNE R		;/
 
 
 ~Sind
+
+Changelog:
+2019-Jul-05
+- SA-1 Compatible (lx5)
